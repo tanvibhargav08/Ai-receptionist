@@ -1,0 +1,13 @@
+{
+  "name": "Sunrise Salon",
+  "description": "a small hair salon in the city",
+  "greeting": "Thanks for calling Sunrise Salon. I'm the AI assistant. How can I help you today?",
+  "hours": "Mon-Fri 9am-6pm, Sat 10am-2pm, closed Sunday",
+  "urgentRules": "emergencies or safety issues, a customer with a time-critical problem today, an angry customer threatening to cancel or complain, or someone saying it is urgent",
+  "faqs": [
+    { "q": "Where are you located?", "a": "123 Main Street, Your City." },
+    { "q": "How much do you charge?", "a": "Prices depend on the service. I can take your details and the owner will send a quote." },
+    { "q": "Do you take walk-ins or appointments?", "a": "Both. Appointments are preferred; I can take a message to arrange one." },
+    { "q": "What payment methods do you accept?", "a": "Cash, all major cards and UPI." }
+  ]
+}
